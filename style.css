@@ -1,6 +1,25 @@
-!doctype html
-html
-body
-  This is my first webpage
-/body
-/html
+* 
+{
+	font-family: serif;
+}
+body  
+{
+	font-size: 18px;
+	color: red;
+}
+h1, h2, h3
+{
+	color: yellow;
+	background-color: blue;
+	border-color: navy;
+	border-width: 5px;
+	border-style: solid;
+	margin: 10px;
+	padding: 30px;
+
+}
+
+ul 
+{
+	font-style: italic;
+}
